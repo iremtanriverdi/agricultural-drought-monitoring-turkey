@@ -4,8 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)]()  
 [![R](https://img.shields.io/badge/R-4.2.2+-green.svg)]()  
-[![License](https://img.shields.io/badge/License-Research%20Only-lightgrey.svg)]()  
-[![Paper](https://img.shields.io/badge/Paper-Under%20Review-orange.svg)]()  
+
 
 ---
 
@@ -37,7 +36,7 @@ machine learning and deep learning models with satellite, meteorological, and cr
 
 ---
 
-## 🌦️ Data Sources
+## Data Sources
 - **Meteorological Data:**  
   Turkish State Meteorological Service (MGM) — restricted access  
   🔗 [https://www.mgm.gov.tr/](https://www.mgm.gov.tr/)
